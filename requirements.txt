@@ -16,4 +16,7 @@ adbshell==0.1.0
 python==3.10.6
 ruby==3.0.2
 sockets==0.0.1
+metasploit==6.0.45
+metsasploit-payloads==2.0.0
+metasploit-framework==6.0.45
 

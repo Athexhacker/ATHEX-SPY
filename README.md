@@ -1,17 +1,21 @@
+<a href="https://github.com/Athexhacker/ATHEX-SPY"><img src="logo.png" alt="0" border="0" /></a> 
+
+![Geo-Phone](https://img.shields.io/badge/version-v[1.6]-blue.svg)
+
 <div align="center">
   
-# ATHEX-SPY
+# 💀⚡ **ATHEX-SPY** ⚡💀
   
-### ATHEX-SPY with Metasploit Integration.
+### 🕵️ **The Ultimate Android Exploitation Framework** 🕵️
 
-An all-in-one hacking tool written in `Python` to remotely exploit Android devices using `ADB` (Android Debug Bridge) and `Metasploit-Framework`.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=SYSTEM+BREACH+INITIATED;HACK+ANDROID+DEVICES;METERPRETER+IN+ONE+CLICK;YOUR+PHONE+IS+NOW+MINE)](https://git.io/typing-svg)
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/Athexhacker/ATHEX-SPY)
-![Python](https://img.shields.io/badge/python-v3.10%2B-blue)
-![GitHub Release Date](https://img.shields.io/github/release-date/Athexhacker/ATHEX-SPY?logo=github)
-![GitHub last commit](https://img.shields.io/github/last-commit/Athexhacker/ATHEX-SPY?logo=github)
-![GitHub Repo stars](https://img.shields.io/github/stars/Athexhacker/ATHEX-SPY?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Athexhacker/ATHEX-SPY?style=social)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Athexhacker/ATHEX-SPY?color=red&label=VERSION&style=for-the-badge)
+![Python](https://img.shields.io/badge/PYTHON-v3.10%2B-brightgreen?style=for-the-badge&logo=python)
+![GitHub Release Date](https://img.shields.io/github/release-date/Athexhacker/ATHEX-SPY?color=orange&label=RELEASED&style=for-the-badge&logo=github)
+![GitHub last commit](https://img.shields.io/github/last-commit/Athexhacker/ATHEX-SPY?color=yellow&label=UPDATED&style=for-the-badge&logo=github)
+![GitHub Repo stars](https://img.shields.io/github/stars/Athexhacker/ATHEX-SPY?color=green&style=for-the-badge&logo=github)
+![GitHub forks](https://img.shields.io/github/forks/Athexhacker/ATHEX-SPY?color=blue&style=for-the-badge&logo=github)
 
 </div>
 
